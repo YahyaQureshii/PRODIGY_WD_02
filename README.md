@@ -13,7 +13,7 @@ To run this project locally:
 Clone the repository:
 bash
 Copy code
-git clone [GitHub Link]
+git clone [gh repo clone YahyaQureshii/PRODIGY_WD_02]
 Open the index.html file in your preferred browser to view and use the stopwatch.
 🔧 Technologies Used
 HTML5: For structuring the web app.
